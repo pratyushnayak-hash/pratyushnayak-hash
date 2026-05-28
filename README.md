@@ -2,7 +2,6 @@ Hi there! 👋 I'm Pratyush Nayak, a passionate B.Tech Computer Science and Engi
 ​🔭 I’m currently working on exciting projects related to Python, Data Structures and Algorithms, and Web Development.
 ​🌱 I’m constantly exploring more about AI, Machine Learning, and Java Development.
 ​📫 How to reach me: pratyushnayakjeet@gmail.com"
-
-
+[profile Banner](banner.svg)
 
     <
